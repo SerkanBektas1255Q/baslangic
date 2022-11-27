@@ -2,3 +2,4 @@ git gitup ilk ders
 git github ikinci ders
 git github ikinci ders burda gerekli calismalar yapilmali
 git github ikinci ders burda gerekli calismalar yapilmali 6.deneme
+git github ikinci ders burda gerekli calismalar yapilmali 7.deneme
